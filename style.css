@@ -1,0 +1,14 @@
+.more-html{
+    display: flex;
+    align-items: center;
+}
+
+img{
+    height: 80px;
+}
+
+.more-html a{
+    margin-left: 5px;
+    text-decoration: none;
+}
+
